@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trident-front-end/static/css/main.9bb7a2d2.css",
+    "main.js": "/trident-front-end/static/js/main.c24a599f.js",
+    "static/js/453.634c505e.chunk.js": "/trident-front-end/static/js/453.634c505e.chunk.js",
+    "static/media/tree.png": "/trident-front-end/static/media/tree.62dc1e850aff38e3f435.png",
+    "static/media/nature.mp3": "/trident-front-end/static/media/nature.f0e5cb7bc384d95c61d0.mp3",
+    "static/media/trident.png": "/trident-front-end/static/media/trident.f947d7ce2424d2737fc3.png",
+    "static/media/treem.png": "/trident-front-end/static/media/treem.e1d5e2cc77e8d5277901.png",
+    "static/media/plane.png": "/trident-front-end/static/media/plane.8c5b4b5bf56af7cdb4c6.png",
+    "static/media/map.svg": "/trident-front-end/static/media/map.2f8c4909631044e36379214dcef2cd75.svg",
+    "static/media/2.jpg": "/trident-front-end/static/media/2.07d5ff9b9c9e6fa97009.jpg",
+    "static/media/1.jpg": "/trident-front-end/static/media/1.98264aeb341ad82cb484.jpg",
+    "static/media/pick.mp3": "/trident-front-end/static/media/pick.d888e4fc95605f6d4664.mp3",
+    "static/media/swith.mp3": "/trident-front-end/static/media/swith.8fda3d0216815b4b16d8.mp3",
+    "index.html": "/trident-front-end/index.html",
+    "main.9bb7a2d2.css.map": "/trident-front-end/static/css/main.9bb7a2d2.css.map",
+    "main.c24a599f.js.map": "/trident-front-end/static/js/main.c24a599f.js.map",
+    "453.634c505e.chunk.js.map": "/trident-front-end/static/js/453.634c505e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb7a2d2.css",
+    "static/js/main.c24a599f.js"
+  ]
+}
