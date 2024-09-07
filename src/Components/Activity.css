@@ -1,0 +1,15 @@
+/* Activity.css */
+@import url('https://fonts.googleapis.com/css2?family=Italiana:wght@400&display=swap');
+
+.font-cursive {
+    font-family: 'Italiana', cursive;
+}
+
+button {
+    z-index: 10; /* Ensure buttons are clickable and above other elements */
+}
+
+img {
+    border-radius: 8px; /* Rounded borders for images */
+     /* Margin from the right, left, and top */
+}

@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes float {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+  }
+  
+  @keyframes fall {
+    0% { transform: translateY(0) rotate(0); }
+    100% { transform: translateY(100vh) rotate(360deg); }
+  }
+  
+  @keyframes sway {
+    0% { transform: translateX(0); }
+    50% { transform: translateX(-20px); }
+    100% { transform: translateX(0); }
+  }
+  
+  .animate-float {
+    animation: float 4s ease-in-out infinite;
+  }
+  
+  .animate-fall {
+    animation: fall 5s linear infinite;
+  }
+  
+  .animate-sway {
+    animation: sway 2s ease-in-out infinite;
+  }
+  .custom-shadow {
+    @apply shadow-md; /* Example of applying a default shadow */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  }
+
+  .fade-in {
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
